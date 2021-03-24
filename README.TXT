@@ -12,4 +12,4 @@ mueveArriba(double) Desplaza la línea hacia arriba la distancia que se indique.
 mueveAbajo(double) Desplaza la línea hacia abajo la distancia que se indique.
 Getters y Setters.
 toString : que nos permita mostrar la información de la línea de la siguiente forma:
-[puntoA,puntoB]. Por ejemplo: [(0.0,0.0),(1.0,1.0)].�
+[puntoA,puntoB]. Por ejemplo: [(0.0,0.0),(1.0,1.0)].
